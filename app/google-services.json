@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "202169386230",
+    "firebase_url": "https://fir-app-e574f-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-e574f",
+    "storage_bucket": "fir-app-e574f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202169386230:android:cb48c84af2ed1d6a9c58d7",
+        "android_client_info": {
+          "package_name": "com.example.firebasejetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp2NlHTYR4lg5n-v51s1cuJioeNrhHKj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
